@@ -1,0 +1,15 @@
+{
+  "name": "xiaomiquan-tools",
+  "version": "1.0.0",
+  "description": "xiaomiquan tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaojue",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^3.0.1",
+    "request": "^2.81.0"
+  }
+}
